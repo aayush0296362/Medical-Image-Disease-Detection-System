@@ -65,30 +65,6 @@ The trained model was evaluated using:
 
 ---
 
-## 📸 Project Screenshots
-
-### Model Summary
-
-![Model Summary](Screenshots/Model_Summary.png)
-
-### Training Accuracy & Loss
-
-![Training Graph](Screenshots/Accuracy_Loss_Graph.png)
-
-### Classification Report
-
-![Classification Report](Screenshots/Classification_Report.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](Screenshots/Confusion_Matrix.png)
-
-### Custom Chest X-ray Prediction
-
-![Prediction](Screenshots/Prediction_Output.png)
-
----
-
 ## ▶️ How to Run
 
 1. Clone this repository.
